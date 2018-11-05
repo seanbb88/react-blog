@@ -1,25 +1,13 @@
-# ReduxSimpleStarter
+*React Blog made with React/Redux*<br>
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+To use app: <br>
+-Download a source code editor (Visual Studio Code is my prefered editor - https://code.visualstudio.com/download) <br>
+-Git clone this repository to your computer <br>
+-Cd into the folder and run NPM install to install the app dependencies <br>
+-After the dependencies are installed run NPM run start in the command prompt to start the application. <br>
+<br>
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+Uses: <br>
+-This app can used to write, search, and delete personal blog posts. 
+<br>
+I wrote this app as practice in learing to work with React/Redux
